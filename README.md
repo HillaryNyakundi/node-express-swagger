@@ -1,0 +1,1 @@
+This project is aimed at demonstrating API documentation using Swagger
